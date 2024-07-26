@@ -4,7 +4,7 @@ Este diretório contém a estrutura base para um projeto com:
 
 - React 17 (usando typescript)
 - React Router 5
-- Material UI 4
+- Material UI 5.16.0
 
 Basta copiar essa pasta e renomeá-la conforme desejado. Adicionalmente, você
 pode renomear a propriedade `name` no arquivo `package.json`, mas isso é opcional.
