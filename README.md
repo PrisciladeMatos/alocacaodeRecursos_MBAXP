@@ -9,4 +9,4 @@ Este diretório contém a estrutura base para um projeto com:
 Basta copiar essa pasta e renomeá-la conforme desejado. Adicionalmente, você
 pode renomear a propriedade `name` no arquivo `package.json`, mas isso é opcional.
 
-Em seguida, entre no diretório e instale as depedências com `npm install`, como de costume.
+Em seguida, entre no diretório e instale as depedências com `npm install` ou `yarn install`.
